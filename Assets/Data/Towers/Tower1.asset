@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e767ef972d287e41a9f8acf49939f21, type: 3}
+  m_Name: Tower1
+  m_EditorClassIdentifier: 
+  gold: 100
+  radius: 2
+  damage: 5
+  fireRate: 2
+  prefab: {fileID: 8674418322743431485, guid: 62f0e6e8e50c52541ac6bd1b93d73f9b, type: 3}
+  preview: {fileID: 3967966066672737076, guid: 617d186818529d448b77329c3fe1161e, type: 3}
